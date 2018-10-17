@@ -42,9 +42,3 @@ sudo pacman -S qmmp
 
 #vlc install
 sudo pacman -S vlc
-
-#OBS
-sudo pacman -S obs-studio
-
-#Lehet egyben is
-#sudo pacman -S virtualbox deluge atom qmmp vlc obs-studio
